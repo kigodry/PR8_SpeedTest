@@ -1,0 +1,17 @@
+C:\Users\ivano\OneDrive\Рабочий стол\C# Projects\PR8_SpeedTest\PR8_SpeedTest\obj\Debug\net6.0\PR8_SpeedTest.csproj.AssemblyReference.cache
+C:\Users\ivano\OneDrive\Рабочий стол\C# Projects\PR8_SpeedTest\PR8_SpeedTest\obj\Debug\net6.0\PR8_SpeedTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ivano\OneDrive\Рабочий стол\C# Projects\PR8_SpeedTest\PR8_SpeedTest\obj\Debug\net6.0\PR8_SpeedTest.AssemblyInfoInputs.cache
+C:\Users\ivano\OneDrive\Рабочий стол\C# Projects\PR8_SpeedTest\PR8_SpeedTest\obj\Debug\net6.0\PR8_SpeedTest.AssemblyInfo.cs
+C:\Users\ivano\OneDrive\Рабочий стол\C# Projects\PR8_SpeedTest\PR8_SpeedTest\obj\Debug\net6.0\PR8_SpeedTest.csproj.CoreCompileInputs.cache
+C:\Users\ivano\OneDrive\Рабочий стол\C# Projects\PR8_SpeedTest\PR8_SpeedTest\bin\Debug\net6.0\PR8_SpeedTest.exe
+C:\Users\ivano\OneDrive\Рабочий стол\C# Projects\PR8_SpeedTest\PR8_SpeedTest\bin\Debug\net6.0\PR8_SpeedTest.deps.json
+C:\Users\ivano\OneDrive\Рабочий стол\C# Projects\PR8_SpeedTest\PR8_SpeedTest\bin\Debug\net6.0\PR8_SpeedTest.runtimeconfig.json
+C:\Users\ivano\OneDrive\Рабочий стол\C# Projects\PR8_SpeedTest\PR8_SpeedTest\bin\Debug\net6.0\PR8_SpeedTest.dll
+C:\Users\ivano\OneDrive\Рабочий стол\C# Projects\PR8_SpeedTest\PR8_SpeedTest\bin\Debug\net6.0\PR8_SpeedTest.pdb
+C:\Users\ivano\OneDrive\Рабочий стол\C# Projects\PR8_SpeedTest\PR8_SpeedTest\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\ivano\OneDrive\Рабочий стол\C# Projects\PR8_SpeedTest\PR8_SpeedTest\obj\Debug\net6.0\PR8_SpeedTest.csproj.CopyComplete
+C:\Users\ivano\OneDrive\Рабочий стол\C# Projects\PR8_SpeedTest\PR8_SpeedTest\obj\Debug\net6.0\PR8_SpeedTest.dll
+C:\Users\ivano\OneDrive\Рабочий стол\C# Projects\PR8_SpeedTest\PR8_SpeedTest\obj\Debug\net6.0\refint\PR8_SpeedTest.dll
+C:\Users\ivano\OneDrive\Рабочий стол\C# Projects\PR8_SpeedTest\PR8_SpeedTest\obj\Debug\net6.0\PR8_SpeedTest.pdb
+C:\Users\ivano\OneDrive\Рабочий стол\C# Projects\PR8_SpeedTest\PR8_SpeedTest\obj\Debug\net6.0\PR8_SpeedTest.genruntimeconfig.cache
+C:\Users\ivano\OneDrive\Рабочий стол\C# Projects\PR8_SpeedTest\PR8_SpeedTest\obj\Debug\net6.0\ref\PR8_SpeedTest.dll
